@@ -2058,7 +2058,8 @@
     new Option_1('mime', true, 'image/png'),
     new Option_1('padding', true, null, Utilities_1.abs),
     new Option_1('size', true, 100, Utilities_1.abs),
-    new Option_1('value', true, '')
+    new Option_1('value', true, ''),
+    new Option_1('label', true, '')
   ]);
   var serviceManager = new ServiceManager_1();
 
